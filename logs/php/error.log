@@ -1,0 +1,351 @@
+[11-Feb-2025 04:56:24 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\Users\windows\Local Sites\loja\app\public\wp-includes\Requests\src\Transport\Curl.php on line 205
+[11-Feb-2025 04:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[11-Feb-2025 05:43:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[11-Feb-2025 05:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[11-Feb-2025 05:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[11-Feb-2025 06:01:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[11-Feb-2025 06:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[11-Feb-2025 06:39:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[12-Feb-2025 03:46:23 UTC] PHP Warning:  PHP Request Startup: Input variables exceeded 4000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[12-Feb-2025 08:07:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[12-Feb-2025 11:28:09 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[12-Feb-2025 12:50:43 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2035
+[12-Feb-2025 12:50:43 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2035
+[12-Feb-2025 12:52:16 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2035
+[12-Feb-2025 12:52:16 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2035
+[12-Feb-2025 13:04:28 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2035
+[12-Feb-2025 13:04:28 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2035
+[12-Feb-2025 13:04:56 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2035
+[12-Feb-2025 13:04:56 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2035
+[12-Feb-2025 13:10:37 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2035
+[12-Feb-2025 13:10:37 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2035
+[12-Feb-2025 13:58:32 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[13-Feb-2025 04:15:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_rating_count() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php:480
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2366): Essential_Addons_Elementor\Elements\Woo_Product_Rating->render()
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(636): Elementor\Controls_Stack->render_by_mode()
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(698): Elementor\Widget_Base->render_content()
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#7 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#8 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(558): Elementor\DB->render_element_plain_content(Array)
+#9 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(539): Elementor\DB->get_plain_text_from_data(Array)
+#10 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(230): Elementor\DB->get_plain_text(580)
+#11 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(1369): Elementor\DB->save_plain_text(580)
+#12 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(859): Elementor\Core\Base\Document->save_elements(Array)
+#13 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\documents-manager.php(550): Elementor\Core\Base\Document->save(Array)
+#14 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#15 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#16 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#17 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#18 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#19 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#20 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php on line 480
+[13-Feb-2025 04:19:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_rating_count() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php:480
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2366): Essential_Addons_Elementor\Elements\Woo_Product_Rating->render()
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(636): Elementor\Controls_Stack->render_by_mode()
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(698): Elementor\Widget_Base->render_content()
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#7 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#8 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(558): Elementor\DB->render_element_plain_content(Array)
+#9 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(539): Elementor\DB->get_plain_text_from_data(Array)
+#10 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(230): Elementor\DB->get_plain_text(466)
+#11 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(1369): Elementor\DB->save_plain_text(466)
+#12 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(859): Elementor\Core\Base\Document->save_elements(Array)
+#13 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\documents-manager.php(550): Elementor\Core\Base\Document->save(Array)
+#14 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#15 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#16 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#17 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#18 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#19 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#20 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php on line 480
+[13-Feb-2025 04:20:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_rating_count() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php:480
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2366): Essential_Addons_Elementor\Elements\Woo_Product_Rating->render()
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(636): Elementor\Controls_Stack->render_by_mode()
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(698): Elementor\Widget_Base->render_content()
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#7 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#8 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(558): Elementor\DB->render_element_plain_content(Array)
+#9 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(539): Elementor\DB->get_plain_text_from_data(Array)
+#10 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(230): Elementor\DB->get_plain_text(466)
+#11 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(1369): Elementor\DB->save_plain_text(466)
+#12 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(859): Elementor\Core\Base\Document->save_elements(Array)
+#13 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\documents-manager.php(550): Elementor\Core\Base\Document->save(Array)
+#14 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#15 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#16 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#17 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#18 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#19 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#20 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php on line 480
+[13-Feb-2025 04:20:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_rating_count() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php:480
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2366): Essential_Addons_Elementor\Elements\Woo_Product_Rating->render()
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(636): Elementor\Controls_Stack->render_by_mode()
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(698): Elementor\Widget_Base->render_content()
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#7 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#8 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(558): Elementor\DB->render_element_plain_content(Array)
+#9 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(539): Elementor\DB->get_plain_text_from_data(Array)
+#10 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(230): Elementor\DB->get_plain_text(581)
+#11 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(1369): Elementor\DB->save_plain_text(581)
+#12 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(859): Elementor\Core\Base\Document->save_elements(Array)
+#13 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\documents-manager.php(550): Elementor\Core\Base\Document->save(Array)
+#14 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#15 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#16 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#17 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#18 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#19 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#20 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php on line 480
+[13-Feb-2025 04:21:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_rating_count() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php:480
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2366): Essential_Addons_Elementor\Elements\Woo_Product_Rating->render()
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(636): Elementor\Controls_Stack->render_by_mode()
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(698): Elementor\Widget_Base->render_content()
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#7 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#8 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(558): Elementor\DB->render_element_plain_content(Array)
+#9 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(539): Elementor\DB->get_plain_text_from_data(Array)
+#10 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(230): Elementor\DB->get_plain_text(466)
+#11 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(1369): Elementor\DB->save_plain_text(466)
+#12 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(859): Elementor\Core\Base\Document->save_elements(Array)
+#13 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\documents-manager.php(550): Elementor\Core\Base\Document->save(Array)
+#14 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#15 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#16 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#17 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#18 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#19 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#20 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php on line 480
+[13-Feb-2025 04:22:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_rating_count() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php:480
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2366): Essential_Addons_Elementor\Elements\Woo_Product_Rating->render()
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(636): Elementor\Controls_Stack->render_by_mode()
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(698): Elementor\Widget_Base->render_content()
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#7 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#8 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(558): Elementor\DB->render_element_plain_content(Array)
+#9 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(539): Elementor\DB->get_plain_text_from_data(Array)
+#10 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(230): Elementor\DB->get_plain_text(466)
+#11 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(1369): Elementor\DB->save_plain_text(466)
+#12 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(859): Elementor\Core\Base\Document->save_elements(Array)
+#13 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\documents-manager.php(550): Elementor\Core\Base\Document->save(Array)
+#14 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#15 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#16 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#17 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#18 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#19 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#20 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php on line 480
+[13-Feb-2025 04:22:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_rating_count() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php:480
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2366): Essential_Addons_Elementor\Elements\Woo_Product_Rating->render()
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(636): Elementor\Controls_Stack->render_by_mode()
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(698): Elementor\Widget_Base->render_content()
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#7 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#8 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(558): Elementor\DB->render_element_plain_content(Array)
+#9 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(539): Elementor\DB->get_plain_text_from_data(Array)
+#10 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(230): Elementor\DB->get_plain_text(582)
+#11 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(1369): Elementor\DB->save_plain_text(582)
+#12 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(859): Elementor\Core\Base\Document->save_elements(Array)
+#13 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\documents-manager.php(550): Elementor\Core\Base\Document->save(Array)
+#14 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#15 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#16 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#17 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#18 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#19 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#20 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php on line 480
+[13-Feb-2025 04:24:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_rating_count() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php:480
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2366): Essential_Addons_Elementor\Elements\Woo_Product_Rating->render()
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(636): Elementor\Controls_Stack->render_by_mode()
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(698): Elementor\Widget_Base->render_content()
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#7 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#8 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(558): Elementor\DB->render_element_plain_content(Array)
+#9 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(539): Elementor\DB->get_plain_text_from_data(Array)
+#10 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\includes\db.php(230): Elementor\DB->get_plain_text(466)
+#11 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(1369): Elementor\DB->save_plain_text(466)
+#12 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\base\document.php(859): Elementor\Core\Base\Document->save_elements(Array)
+#13 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\documents-manager.php(550): Elementor\Core\Base\Document->save(Array)
+#14 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#15 C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#16 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#17 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#18 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#19 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#20 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Rating.php on line 480
+[13-Feb-2025 04:29:03 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2035
+[13-Feb-2025 04:29:03 UTC] PHP Warning:  Attempt to read property "post_content" on null in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2035
+[13-Feb-2025 15:03:42 UTC] WordPress database error Table 'wp_eb_form_settings' already exists for query CREATE TABLE wp_eb_form_settings (
+                    id INT AUTO_INCREMENT,
+                    block_id VARCHAR(24) NOT NULL,
+                    title TEXT NOT NULL,
+                    fields TEXT NOT NULL,
+                    form_options TEXT NOT NULL,
+                    settings TEXT NOT NULL,
+                    created_by INT NOT NULL,
+                    updated_at DATETIME NOT NULL,
+                    PRIMARY KEY (id),
+                    UNIQUE (block_id)
+                )DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, EssentialBlocks\Core\Maintenance->update_actions, EssentialBlocks\Core\Maintenance::db_create_tables, maybe_create_table
+[13-Feb-2025 17:39:39 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[13-Feb-2025 17:51:55 UTC] PHP Warning:  Array to string conversion in C:\Users\windows\Local Sites\loja\app\public\wp-includes\rest-api\fields\class-wp-rest-meta-fields.php on line 436
+[13-Feb-2025 19:31:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[13-Feb-2025 19:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[14-Feb-2025 03:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[14-Feb-2025 03:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[14-Feb-2025 04:04:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[14-Feb-2025 04:10:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[14-Feb-2025 04:28:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[14-Feb-2025 04:36:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php:349
+Stack trace:
+#0 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\windows\Local Sites\loja\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\windows\Local Sites\loja\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\windows\Local Sites\loja\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\windows\Local Sites\loja\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 349
+[15-Feb-2025 04:22:57 UTC] Cron reschedule event error for hook: wc_admin_unsnooze_admin_notes, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
